@@ -4,7 +4,7 @@ exports.dbConfig = void 0;
 exports.dbConfig = {
     HOST: "sql.freedb.tech",
     USER: "freedb_backend-final3",
-    PASSWORD: "7*fnAaZ4!YMXMAZ",
+    PASSWORD: "pTx2XbzwDHq!25R",
     DB: "freedb_coral_e-commerce",
     DIALECT: "mysql",
     pool: {
