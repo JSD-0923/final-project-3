@@ -1,7 +1,7 @@
 export const dbConfig = {
     HOST: "sql.freedb.tech",
     USER: "freedb_backend-final3", // Replace with your MySQL username
-    PASSWORD: "7*fnAaZ4!YMXMAZ", // Replace with your MySQL password
+    PASSWORD: "pTx2XbzwDHq!25R", // Replace with your MySQL password
     DB: "freedb_coral_e-commerce", // Replace with your MySQL database name
     DIALECT: "mysql",
     pool: {
